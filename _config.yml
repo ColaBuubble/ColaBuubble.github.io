@@ -16,7 +16,7 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: colabubble.github.io
-github_url: https://github.com/ityouknow
+github_url: colabubble.github.io
 url: colabubble.github.io
 ## enforce_ssl: ityouknow.com
 
