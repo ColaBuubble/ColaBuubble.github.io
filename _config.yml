@@ -231,7 +231,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: colabubble
-    repo: blog-comments
+    repo: colabuubble.github.io
     clientID: c1b00c369b7e56b37a5c
     clientSecret: 5274ca1f151b994b89d4085d17ea2108003cb08a
 # 在使用其它评论组件时可点击显示 Disqus
