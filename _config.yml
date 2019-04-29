@@ -233,8 +233,8 @@ gitalk:
     enable: true
     owner: colabubble
     repo: blog-comments
-    clientID: c1b00c369b7e56b37a5c
-    clientSecret: 2101201e9eaa4ce0a1b350d9dd3d11b98d3a5c41
+    clientID: 093e0f22caae0186da57
+    clientSecret: e50784b09a3f19abbeab4a4486b1a9ada1bd381f
     adminUser: colabubble
     distractionFreeMode: true
 # 在使用其它评论组件时可点击显示 Disqus
